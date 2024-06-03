@@ -1,4 +1,5 @@
 *.pyc
 .ipynb_checkpoints
 *.yaml
-!midas_config_template.yaml
+!midas_config.yaml
+CalFlexHub_Price_Reception_Tool/midas_config.yaml
