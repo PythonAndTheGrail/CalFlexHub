@@ -3,3 +3,4 @@
 *.yaml
 !midas_config.yaml
 CalFlexHub_Price_Reception_Tool/midas_config.yaml
+CalFlexHub_Price_Reception_Tool/registration-midas.ipynb
